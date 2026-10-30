@@ -1,5 +1,7 @@
 KARKA AI & TECH ACADEMY — WEBSITE
 
+Live URL : "https://karka-redesign-rgt0.onrender.com"
+
 Files
 - index.html: page structure and content
 - style.css: responsive styling and animations
